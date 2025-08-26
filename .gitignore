@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# 打包或執行檔
+*.exe
+*.zip
+*.pkg
+
+# 資料夾
+dist/
+build/
+config_exe/
+
+# VSCode 或其他編輯器
+.vscode/
